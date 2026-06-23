@@ -1,4 +1,4 @@
-# Rust-Quantum-v2-Next-Gen-AI-Assistant — Advanced AI Training Platform & Vision Assistant
+# Fortnite-NewEra-AI-Assistant — Advanced AI Training Platform & Vision Assistant
 
 <p align="center">
   <!-- Кликабельные кнопки (Оранжевый индустриальный стиль) -->
