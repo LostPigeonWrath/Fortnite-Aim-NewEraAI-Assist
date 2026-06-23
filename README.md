@@ -53,8 +53,8 @@ Weapon Bloom & Recoil Compensation Assistance: Provides static visual reference 
 
 </p>
 
-## 3. AI Core Calibration (Augmented Reality HUD)
-
+## 3. AI Core Calibration 
+The software relies exclusively on Windows Desktop API pixel capture. It does not open game handles, read runtime memory lines, or hook execution engine functions.
 <p align="center">
 
 <img width="1221" height="617" alt="image" src="https://github.com/user-attachments/assets/b38d4ac6-e4cd-4289-a22a-7ff1dba8c826" />
