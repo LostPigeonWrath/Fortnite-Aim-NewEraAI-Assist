@@ -102,4 +102,4 @@ The software relies exclusively on Windows Desktop API pixel capture. It does no
 
 `gameplay-analysis`, `fortnite-2026`, `yolov8`, `automation`, `automation-framework`, `real-time-processing`, `computer-vision`, `object-detection`
 
-<!-- update: B -->
+<!-- update: A -->
